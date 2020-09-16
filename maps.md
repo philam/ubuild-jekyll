@@ -30,6 +30,5 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-published: false
 
 ---
