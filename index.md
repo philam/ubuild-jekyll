@@ -12,7 +12,7 @@ page_sections:
     url: "../maps"
     button_text: Explore
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: ''
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 
