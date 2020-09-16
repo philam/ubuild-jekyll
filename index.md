@@ -9,7 +9,7 @@ page_sections:
   content: Australia's railways mapped.<br>Clarified. Unified. Simplified.
   cta:
     enabled: true
-    url: "/map"
+    url: "/maps"
     button_text: Explore
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
