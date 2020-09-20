@@ -49,5 +49,13 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Adelaide
+  content: Test
+  media:
+    image: ''
+    alt_text: ''
 
 ---
