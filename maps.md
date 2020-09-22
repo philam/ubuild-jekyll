@@ -52,7 +52,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <id="Adelaide">Adelaide</id>
+  headline: <h2 id="Adelaide">Adelaide</a>
   content: Test
   media:
     image: ''
