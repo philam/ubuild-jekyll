@@ -19,6 +19,8 @@ page_sections:
     link_text: Home
   - link: "../maps"
     link_text: Maps
+  - link: "../design"
+    link_text: Design
   - link: "../contact"
     link_text: Contact
   logo: "/uploads/2020/09/22/white.svg"
