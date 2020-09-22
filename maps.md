@@ -21,7 +21,7 @@ page_sections:
     link_text: Maps
   - link: "../contact"
     link_text: Contact
-  logo: "/uploads/2020/09/16/icon-wide.svg"
+  logo: "/uploads/2020/09/22/white.svg"
 - template: navigation-header-w-button
   block: header-2
   navigation:
