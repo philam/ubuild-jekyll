@@ -29,6 +29,18 @@ page_sections:
     link_text: Adelaide
   - link: "#Brisbane"
     link_text: Brisbane
+  - link: "#canberra"
+    link_text: Canberra
+  - link: "#gold-coast"
+    link_text: Gold Coast
+  - link: "#melbourne"
+    link_text: Melbourne
+  - link: "#newcastle"
+    link_text: Newcastle
+  - link: "#sydney"
+    link_text: Sydney
+  - link: "#perth"
+    link_text: Perth
   cta:
     url: https://www.redbubble.com/people/pmallis
     button_text: Buy
