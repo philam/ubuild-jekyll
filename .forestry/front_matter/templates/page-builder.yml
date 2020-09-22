@@ -33,5 +33,6 @@ fields:
   - 4-column-footer
 pages:
 - adelaide.md
+- design.md
 - index.md
 - maps.md
