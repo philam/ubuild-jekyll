@@ -39,10 +39,10 @@ page_sections:
     link_text: Melbourne
   - link: "#newcastle"
     link_text: Newcastle
-  - link: "#sydney"
-    link_text: Sydney
   - link: "#perth"
     link_text: Perth
+  - link: "#sydney"
+    link_text: Sydney
   cta:
     url: https://www.redbubble.com/people/pmallis
     button_text: Buy
@@ -68,6 +68,62 @@ page_sections:
   media_alignment: Left
   headline: <h2 id="Adelaide">Adelaide</a>
   content: Test
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Brisbane
+  content: Test
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Canberra
+  content: Test
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Gold Coast
+  content: Test1
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Melbourne
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Newcastle
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Perth
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Sydney
+  content: ''
   media:
     image: ''
     alt_text: ''
