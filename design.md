@@ -19,7 +19,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Design
-  content: The aim of this project is the create a unified design language for all
+  content: The aim of this project is to create a unified design language for all
     of Australia's heavy and light rail networks.<br><br>You can find individual design
     notes for each city on the Maps page <a href="../maps" title="">here</a>.
   media:
