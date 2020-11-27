@@ -13,7 +13,7 @@ page_sections:
     link_text: Maps
   - link: "../design"
     link_text: Design
-  - link: "../contact"
+  - link: https://maps.philipmallis.com/contact/
     link_text: Contact
 - template: content-feature
   block: feature-1
