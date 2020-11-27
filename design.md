@@ -33,7 +33,7 @@ page_sections:
     font for stations, 10pt (bold) for interchanges and termini</p></li><li><p>Freesans
     font used under GNU license (<a href="https://www.fontspace.com/freesans-font-f13276"
     title="">link</a>)</p></li><li><p>Line colours are identical to official allocations
-    for each network (download colour palettes used here)</p></li></ul>
+    for each network, except for non-urban lines (download colour palettes used here)</p></li></ul>
 - template: detail-content
   block: text-1
   content: "<ul><li><p>Non-urban trains with fewer than one train per day are not
