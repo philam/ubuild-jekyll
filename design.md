@@ -40,9 +40,8 @@ page_sections:
     included</p></li><li><p>For the purposes of this map, 'light rail' only includes
     lines that are entirely or almost entirely separated from general traffic</p></li><li><p>Buses,
     ferries and other non-fixed-rail transport are not included</p></li><li><p>All
-    non-urban trains are shown in grey, except for Interurban services in New South
-    Wales, frequent V/Line routes (e.g. Ballarat, Bendigo, Geelong) and intercity
-    trains in South East Queensland</p></li></ul>"
+    non-urban trains are shown in grey for simplicity, except for V/Line routes (which
+    all have the same colour designation)</p></li></ul>"
   headline: Map notes
 - template: detail-content
   block: text-1
