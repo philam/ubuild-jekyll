@@ -55,11 +55,10 @@ page_sections:
     title="">this project</a> from <a href="https://cityrailways.com" title="">Andrea
     Spinosa</a> in Italy and <a href="https://www.railmaps.com.au/" title="">Australian
     Rail Maps</a>, my mission is to create a unified design for all heavy and light
-    rail passenger networks in every Australian city.<br><br>There is a single large
-    poster showing the entire Australian network surrounded by each individual city
-    map.<br><br>City maps are also available separately. Lower resolution versions
-    are available here to download. High-resolution posters and prints can be purchased
-    on my online shop <a href="https://www.redbubble.com/people/pmallis" title="">here</a>.
+    rail passenger networks in every Australian city.<br><br>City maps are available
+    separately. Lower resolution versions are available here to download. High-resolution
+    posters and prints can be purchased on my online shop <a href="https://www.redbubble.com/people/pmallis"
+    title="">here</a>.
   media:
     image: ''
     alt_text: ''
