@@ -68,8 +68,8 @@ page_sections:
   headline: <h2 id="Adelaide">Adelaide</a>
   content: Test
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2020/12/20/adelaide-4x.png"
+    alt_text: Rail map of Adelaide showing different lines
 - template: content-feature
   block: feature-1
   media_alignment: Right
